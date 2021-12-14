@@ -1,0 +1,4 @@
+*://www.c-sharpcorner.com/*
+*://www.codeproject.com/*
+*://www.geeksforgeeks.org/*
+*://riptutorial.com/*
