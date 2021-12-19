@@ -18,3 +18,6 @@
 *://issueexplorer.com/*
 *://uonfu.com/*
 *://gitcodeask.cc/*
+*://grabthiscode.com/*
+*://*.hotexamples.com/*
+*://slashdot.org/*
