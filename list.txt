@@ -20,5 +20,4 @@
 *://gitcodeask.cc/*
 *://grabthiscode.com/*
 *://*.hotexamples.com/*
-*://hotexamples.com/*
 *://slashdot.org/*
