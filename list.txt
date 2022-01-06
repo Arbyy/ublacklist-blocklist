@@ -21,3 +21,6 @@
 *://grabthiscode.com/*
 *://*.hotexamples.com/*
 *://slashdot.org/*
+*://sodocumentation.net/*
+*://coddingbuddy.com/*
+*://coderedirect.com/*
